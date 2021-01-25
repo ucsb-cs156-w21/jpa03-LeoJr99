@@ -8,7 +8,7 @@ On Heroku: https://jpa03-leonardovaldivia.herokuapp.com/
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-LeoJr99
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-LeoJr99/branch/main/graph/badge.svg?token=8FDAH6FBMU)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-LeoJr99)
-
+ 
 ## Integrations
 
 * The npm package `prettier` is used to implement a pre-commit hook that formats JavaScript code.  See: [docs/prettier.md](./docs/prettier.md) for more information.
